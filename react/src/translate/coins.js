@@ -59,6 +59,7 @@ const coins = {
     LABS: 'LABS',
     MTST3: 'MTST3',
     DP: 'DigitalPrice',
+    WLC21: 'WirelessCoin',
   },
   CRYPTO: {
     VRSC: 'Verus',
