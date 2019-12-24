@@ -137,6 +137,8 @@
     "tar": "^4.4.11",
     "js-yaml": "^3.13.1",
     "braces": "^3.0.2",
-    "handlebars": "^4.2.0"
+    "handlebars": "^4.2.0",
+    "serialize-javascript": "^2.1.2",
+    "bin-links": "1.1.6"
   }
 }
