@@ -15,12 +15,13 @@ export const getCoinTitle = (coin) => {
       coinlogo = 'kmd';
       coinname = 'Komodo';
       break;
-    case 'WLC':
+    case 'WLC21':
       titleBG = true;
       transparentBG = true;
-      coinlogo = 'WLC';
-      coinname = 'WIRELESS';
+      coinlogo = 'WLC21';
+      coinname = 'WirelessCoin';
       break;
+
     case 'PANGEA':
       titleBG = true;
       coinlogo = 'PANGEA';
