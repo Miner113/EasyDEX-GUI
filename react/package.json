@@ -39,10 +39,10 @@
   "dependencies": {
     "@babel/core": "^7.0.0",
     "agama-wallet-lib": "git+https://github.com/VerusCoin/agama-wallet-lib.git#dev",
-    "bluebird": "^3.5.0",
+    "bluebird": "^3.7.2",
     "ethers": "git://github.com/VerusCoin/ethers.js",
-    "express": "^4.14.0",
-    "plotly.js": "^1.47.3",
+    "express": "^4.17.1",
+    "plotly.js": "^1.52.1",
     "prop-types": "^15.7.2",
     "qrcode.react": "^0.7.1",
     "rc-slider": "8.5.0",

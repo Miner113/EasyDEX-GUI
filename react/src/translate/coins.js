@@ -5,6 +5,7 @@ const coins = {
     MORTY: 'Morty',
     RICK: 'Rick',
     OUR: 'Ourcoin',
+    ILN: 'ILN',
     BET: 'BET',
     BOTS: 'BOTS',
     CEAL: 'CEAL NET',
