@@ -65,6 +65,7 @@ const coins = {
     VRSCTEST: 'Verus Testnet',
     MTST3: 'MTST3',
     LABS: 'LABS',
+    GRMS: 'GRMS',
     CLF: 'CryptoLeaf',
     KEA: 'KEA',
     OVAL: 'OVAL',
